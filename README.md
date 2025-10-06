@@ -9,13 +9,13 @@ This project is an interactive Power BI sales dashboard designed to visualize an
 
 🛠️ Tech Stack
 
-Power BI Desktop
+-Power BI Desktop
 
-DAX (Data Analysis Expressions)
+-DAX (Data Analysis Expressions)
 
-Power Query (M Language)
+-Power Query (M Language)
 
-Excel / CSV (as the data source)
+-Excel / CSV (as the data source)
 
 
 🗂️ Data Source
@@ -26,21 +26,21 @@ Format: Excel / CSV
 
 Fields Included:
 
-Region
+-Region
 
-Sales
+-Sales
 
-Profit
+-Profit
 
-Product Category
+-Product Category
 
-Customer Segment
+-Customer Segment
 
-Costs
+-Costs
 
-Shipment
+-Shipment
 
-Quantity
+-Quantity
 
 
 ✨ Highlights / Features
@@ -49,34 +49,34 @@ Interactive and user-friendly dashboard
 
 Key KPIs:
 
-Total Sales
+-Total Sales
 
-Total Profit
+-Total Profit
 
-Profit Margin
+-Profit Margin
 
-YoY Growth
+-YoY Growth
 
 
 Visualizations used:
 
-Bar Charts
+-Stacked Charts
 
-Line Graphs
+-Line Graphs
 
-KPI Cards
+-KPI Cards
 
-Map Visuals
+-Tables
 
-Slicers for filters (Region, Category, Date)
+-Slicers for filters (Region, Category, Date)
 
-Time intelligence calculations:
+-Time intelligence calculations:
 
-Month-over-Month & Year-over-Year comparisons
+-Month-over-Month & Year-over-Year comparisons
 
-Drill-through pages for detailed view
+-Drill-through pages for detailed view
 
-Tooltips for enhanced user interactivity
+-Tooltips for enhanced user interactivity
 
 
 📌 Key Points
@@ -103,4 +103,7 @@ Enabled leadership to monitor performance in real-time
 Provided actionable insights for improving sales and profitability
 
 Supported strategic planning by visualizing key business metrics clearly
+
+Screenshot/Demo:
+https://github.com/katakam-swathi/Power-BI-Sales-Analysis-/blob/main/Screenshot%20of%20sales%20analysis.png
 
